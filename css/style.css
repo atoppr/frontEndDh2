@@ -1,0 +1,29 @@
+
+/* dasdsa */
+body{
+    background-color: #E5E5E5;
+}
+
+.fotobatman {
+    text-align: center;
+}
+
+h1 , h2{
+    background-color: #C4C4C4 ;
+    color: #005677;
+    letter-spacing: 0.3em;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+footer{
+    background-color:#005677 ;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20px;
+
+}
